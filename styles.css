@@ -66,3 +66,19 @@
 .button:hover{
     color: crimson;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 20px;
+}
+.about-info{
+    margin: 10px;
+    padding: 20px;
+    /* font-size: 18px; */
+}
+.about-title{
+    text-align: center;
+    padding-top: 20px;
+}
